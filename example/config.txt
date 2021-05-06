@@ -1,0 +1,2 @@
+Prefix plugins/PhyloSeqReorder/example
+Plugin PhyloSeqReorder inputfile parameters.reorder.txt outputfile otu_table.reorder.csv
